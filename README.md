@@ -4,7 +4,7 @@
 
 ResuMatic is a sleek, modern, and fully responsive personal portfolio website built to showcase your skills, experience, and projects. It's crafted with Next.js, React, Tailwind CSS, and Shadcn/UI, providing a beautiful and performant user experience. This project was developed with assistance from Firebase Studio.
 
-**Live Demo:** [Your Live Demo URL Here - e.g., https://karan-portfolio-website.netlify.app]
+**Live Demo: https://karan-portfolio-website.netlify.app
 
 ## Features
 
