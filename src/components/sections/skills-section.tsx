@@ -13,7 +13,6 @@ import {
   LayoutGrid,
   StretchHorizontal,
   Wind,
-  Component,
   GitFork,
   Github,
   CodeXml,
@@ -45,7 +44,6 @@ const skillsData = [
       { name: 'Bootstrap', icon: <LayoutGrid className="h-4 w-4" /> },
       { name: 'FlexBox', icon: <StretchHorizontal className="h-4 w-4" /> },
       { name: 'Tailwind CSS', icon: <Wind className="h-4 w-4" /> },
-      { name: 'Shadcn/UI', icon: <Component className="h-4 w-4" /> }
     ]
   },
   {
