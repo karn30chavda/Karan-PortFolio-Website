@@ -13,7 +13,7 @@ const projects = [
     imageUrl: '/images/ReactFun.jpg',
     imageVersion: 2,
     tags: ['React', 'JavaScript', 'TailwindCSS', 'Github API'],
-    liveUrl: 'reactfun-project-website.netlify.app',
+    liveUrl: 'https://reactfun-project-website.netlify.app',
     repoUrl: 'https://github.com/karn30chavda/reactFun-Project',
     aiHint: 'ReactFun Website'
   },
