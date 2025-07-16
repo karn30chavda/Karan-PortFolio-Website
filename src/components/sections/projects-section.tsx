@@ -8,6 +8,16 @@ import { Dialog, DialogContent, DialogTrigger, DialogTitle, DialogClose, DialogF
 
 const projects = [
   {
+    title: 'ReactFun Website',
+    description: 'Multiple Small React Projects are added in the form of Components',
+    imageUrl: '/images/ReactFun.jpg',
+    imageVersion: 2,
+    tags: ['React', 'JavaScript', 'TailwindCSS', 'Github API'],
+    liveUrl: 'reactfun-project-website.netlify.app',
+    repoUrl: 'https://github.com/karn30chavda/reactFun-Project',
+    aiHint: 'ReactFun Website'
+  },
+  {
     title: 'PWA Calculator',
     description: 'Progressive Web App with theme toggle and calculation history. Features offline functionality, splash screen, keyboard support, dark/light themes, and a lightweight design.',
     imageUrl: '/images/calculator.jpg',
