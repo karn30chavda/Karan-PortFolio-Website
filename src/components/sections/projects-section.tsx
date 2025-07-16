@@ -38,18 +38,18 @@ const projects = [
     aiHint: 'booking service'
   },
   {
-    title: 'Sticky Notes PWA',
+    title: 'NotesFlow PWA',
     description: 'Secure Note-Taking App with rich text editing and PWA capabilities. Features PIN-protected notes, dark/light themes, real-time sync, profile picture upload, search/filter functionality, and responsive UI.',
-    imageUrl: '/images/stickynotes.jpg',
+    imageUrl: '/images/notesflow.jpg',
     tags: ['Full-Stack', 'PWA', 'Security', 'Real-time Sync', 'JavaScript', 'Responsive UI'],
-    liveUrl: 'https://stickynotesproject.netlify.app',
-    repoUrl: 'https://github.com/karn30chavda/STICKY-NOTE-PROJECT',
+    liveUrl: 'https://notesflowapp.netlify.app',
+    repoUrl: 'https://github.com/karn30chavda/NotesFlow',
     aiHint: 'notes app'
   },
   {
     title: 'Tic Tac Win Game',
     description: 'Offline-Ready Game with AI and multiplayer modes. Features a hand-drawn UI, responsive design, animated splash screen, PWA installation, and smooth animations.',
-    imageUrl: '/images/tictactoe.jpg',
+    imageUrl: '/images/tictacwin.jpg',
     tags: ['PWA', 'Game', 'AI', 'Multiplayer', 'JavaScript'],
     liveUrl: 'https://tictactoewinner.netlify.app',
     repoUrl: 'https://github.com/karn30chavda/Tic-Tac-Toe-Game',
