@@ -30,7 +30,7 @@ const projects = [
   {
     title: 'Designated Driver Service (DDS) Website',
     description: 'Full-Stack Web App for booking professional drivers on-demand. Includes user/driver registration, role-based authentication, real-time booking, admin panel, driver background checks, responsive design, Firebase Hosting, and encrypted data storage.',
-    imageUrl: '/images/dds.jpg',
+    imageUrl: '/images/ddswebsite.jpg',
     imageVersion: 2,
     tags: ['Full-Stack', 'Firebase', 'JavaScript', 'Authentication', 'Real-time'],
     liveUrl: 'https://designated-driver-service.netlify.app',
