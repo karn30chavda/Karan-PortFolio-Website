@@ -12,6 +12,7 @@ import {
   Database,
   LayoutGrid,
   StretchHorizontal,
+  LayoutPanelLeft,
   Wind,
   GitFork,
   Github,
@@ -20,8 +21,10 @@ import {
   CloudCog,
   AppWindow,
   ImageUp,
+  Triangle,
   LayoutDashboard,
-  Atom
+  Atom,
+  package2,
 } from 'lucide-react';
 
 const skillsData = [
@@ -32,7 +35,7 @@ const skillsData = [
       { name: 'C/C++', icon: <Binary className="h-4 w-4" /> },
       { name: 'HTML', icon: <FileCode2 className="h-4 w-4" /> },
       { name: 'CSS', icon: <Palette className="h-4 w-4" /> },
-      { name: 'JavaScript', icon: <Braces className="h-4 w-4" /> },
+      { name: 'JavaScript (ES6+)', icon: <Braces className="h-4 w-4" /> },
       { name: 'SQL', icon: <Database className="h-4 w-4" /> }
     ]
   },
@@ -40,10 +43,12 @@ const skillsData = [
     category: 'Frameworks, Libraries & CSS Tools',
     categoryIcon: <Layers className="h-5 w-5 mr-2 text-primary" />,
     skills: [
-      { name: 'React', icon: <Atom className="h-4 w-4" /> },
       { name: 'Bootstrap', icon: <LayoutGrid className="h-4 w-4" /> },
       { name: 'FlexBox', icon: <StretchHorizontal className="h-4 w-4" /> },
+      { name: 'Grid', icon: <LayoutPanelLeft className="h-4 w-4" /> },
       { name: 'Tailwind CSS', icon: <Wind className="h-4 w-4" /> },
+      { name: 'React', icon: <Atom className="h-4 w-4" /> },
+      { name: 'Redux.js', icon: <package2 className="h-4 w-4" /> },
     ]
   },
   {
@@ -54,6 +59,7 @@ const skillsData = [
       { name: 'GitHub', icon: <Github className="h-4 w-4" /> },
       { name: 'Visual Studio Code', icon: <CodeXml className="h-4 w-4" /> },
       { name: 'Netlify', icon: <Rocket className="h-4 w-4" /> },
+      { name: 'Vercel', icon: <triangle className="h-4 w-4" /> },
       { name: 'Firebase Studio', icon: <LayoutDashboard className="h-4 w-4" /> }
     ]
   },
