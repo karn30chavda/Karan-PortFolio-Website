@@ -68,7 +68,7 @@ export default function HomePage() {
        <footer className="w-full py-8 mt-0 border-t border-border/40">
         <div className="container text-center text-sm text-muted-foreground space-y-1">
           <p>&copy; {currentYear ? currentYear : '...'} Karan Chavda. All rights reserved.</p>
-          <p>Built with Next.js, Tailwind CSS, and Shadcn/UI.</p>
+          <p>Built with React.js, Tailwind CSS, and Shadcn/UI.</p>
         </div>
       </footer>
     </div>
