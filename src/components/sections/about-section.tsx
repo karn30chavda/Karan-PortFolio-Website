@@ -17,10 +17,13 @@ export function AboutSection() {
         </div>
         <div className="space-y-4 text-lg text-foreground/80 text-center md:text-left">
           <p>
-            Hello! I'm a dedicated and results-oriented web developer with a knack for crafting elegant solutions to complex problems. With numbers of years of experience in the projects building, I've had the pleasure of working on a variety of projects, from small business websites to large-scale web applications.
+           Hello! I'm a dedicated and results-oriented web developer with a knack for crafting elegant solutions to complex problems. I’ve had the opportunity to build and contribute to a variety of personal and collaborative projects — ranging from basic static websites to dynamic web apps with backend integration.
           </p>
           <p>
-            My passion lies in the intersection of design and technology. I believe that a great user experience is paramount, and I strive to create interfaces that are not only visually appealing but also intuitive and accessible to all users.
+            My passion lies in the intersection of design and technology. I believe that a great user experience is essential, and I strive to create interfaces that are both visually appealing and intuitive for all users, including accessibility.
+</p>
+<p>
+I enjoy working with modern tools like React, Firebase, and Supabase, and I'm always learning to improve performance and usability.
           </p>
           <p>
             When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or enjoying a good cup of coffee while planning my next adventure.
