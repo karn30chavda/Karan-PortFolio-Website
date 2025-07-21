@@ -8,11 +8,14 @@ export function ExperienceSection() {
         <Sparkles className="h-16 w-16 text-primary mx-auto mb-4" />
         <h3 className="text-2xl font-semibold text-foreground">Building My Path</h3>
         <p className="text-lg text-foreground/80 max-w-2xl mx-auto">
-          I am a passionate and self-motivated learner, currently focused on developing my skills in web development through hands-on projects and continuous learning.
+        I’m a passionate and self-driven learner currently focused on mastering web development by building real-world projects and continuously expanding my skillset.
         </p>
         <p className="text-lg text-foreground/80 max-w-2xl mx-auto">
-          While I am at the beginning of my professional journey and do not have formal work experience yet, my dedication is showcased in the projects I've undertaken. I am eager to apply my growing expertise to real-world challenges and contribute to innovative solutions.
+          While I’m at the beginning of my professional journey and don’t have formal work experience yet, my commitment to learning is reflected in the hands-on projects I’ve created using tools like React, Firebase, and Supabase.
         </p>
+ <p className="text-lg text-foreground/80 max-w-2xl mx-auto">
+I’m eager to bring this growing expertise into real-world environments, collaborate with teams, and contribute to meaningful solutions.
+</p>
         <p className="text-lg text-foreground/80 max-w-2xl mx-auto">
           Please explore my <a href="#projects" className="text-primary hover:underline font-medium">projects section</a> to see what I've been working on!
         </p>
