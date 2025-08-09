@@ -75,13 +75,13 @@ export function HeroSection({ currentIndianDate, currentIndianTime }: HeroSectio
               </DialogHeader>
               <div className="grid gap-4 py-4">
                 <Button asChild variant="outline">
-                  <a href="/karanresume.pdf" target="_blank" rel="noopener noreferrer">
+                  <a href="/KaranChavdaResume.pdf" target="_blank" rel="noopener noreferrer">
                     <Eye className="mr-2 h-4 w-4" />
                     Preview Resume
                   </a>
                 </Button>
                 <Button asChild>
-                  <a href="/karanresume.pdf" download="KaranChavda_Resume.pdf">
+                  <a href="/KaranChavdaResume.pdf" download="KaranChavda_Resume.pdf">
                     <ArrowDownToLine className="mr-2 h-4 w-4" />
                     Download Resume
                   </a>
